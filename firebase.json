@@ -1,0 +1,9 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"vihaan-project-5762b",
+"appId":"1:253979077325:android:c70a74294051c1ba369784",
+"fileOutput":"android/app/google-services.json"}},
+"dart":{"lib/firebase_options.dart":{"projectId":"vihaan-project-5762b",
+"configurations":{"android":"1:253979077325:android:c70a74294051c1ba369784",
+"ios":"1:253979077325:ios:b1a8d00834ce993d369784",
+"macos":"1:253979077325:ios:b1a8d00834ce993d369784",
+"web":"1:253979077325:web:d9f8776e5393a6e8369784",
+"windows":"1:253979077325:web:563b8ad0da86f1ad369784"}}}}}}
