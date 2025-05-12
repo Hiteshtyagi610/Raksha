@@ -1,16 +1,68 @@
-# vihaan_project
+# 🚨 Raksha – Women Safety App
 
-A new Flutter project.
+Raksha is a mobile application built using Flutter with a core focus on **women's safety**. It provides live location tracking and easy access to emergency features to ensure help is always just a tap away.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🔐 Key Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📍 **Live Location Sharing**  
+  Instantly share your current location via Google Maps.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 👩‍✈️ **Book a Women Driver Cab**  
+  A dedicated section to promote safe travel with women drivers (feature to be integrated).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 📢 **Emergency SOS**  
+  (To be added) Quick-trigger emergency alert button to notify saved contacts.
+
+---
+
+## 📱 Screenshots
+
+> _Coming soon – add some screenshots of your app here from an emulator or physical device._
+
+---
+
+## 🚧 Tech Stack
+
+- **Flutter**
+- **Firebase Auth**
+- **Provider (State Management)**
+- **Google Maps Integration**
+
+---
+
+## 🔧 How to Run
+
+1. Clone this repo  
+   `git clone https://github.com/Hiteshtyagi610/Raksha.git`
+
+2. Navigate to the folder  
+   `cd Raksha`
+
+3. Get dependencies  
+   `flutter pub get`
+
+4. Run the app  
+   `flutter run`
+
+---
+
+## 📦 APK Download
+
+> _(Optional)_ Upload your release `.apk` to GitHub Releases or Google Drive and paste the link here for reviewers to test the app.
+
+---
+
+## 🙋‍♂️ Developer
+
+- **Hitesh Tyagi**
+- 📧 [Email](mailto:your@email.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+
+---
+
+## ⭐ Give a Star
+
+If you like the project, please ⭐ the repo to support the work!
+
